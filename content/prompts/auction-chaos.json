@@ -1,0 +1,290 @@
+[
+ {
+  "text": "A box that ticks softly",
+  "answer": "cursed",
+  "decoys": [
+   "-400",
+   "A cuckoo clock that won't stop. You pay to fix it."
+  ]
+ },
+ {
+  "text": "A tiny velvet box",
+  "answer": "jackpot",
+  "decoys": [
+   "1200",
+   "A diamond ring!"
+  ]
+ },
+ {
+  "text": "A very heavy wooden crate",
+  "answer": "dud",
+  "decoys": [
+   "20",
+   "Rocks. Just rocks."
+  ]
+ },
+ {
+  "text": "A box that smells like pizza",
+  "answer": "dud",
+  "decoys": [
+   "30",
+   "A single cold slice."
+  ]
+ },
+ {
+  "text": "A shiny silver briefcase",
+  "answer": "jackpot",
+  "decoys": [
+   "1500",
+   "Stacks of cash!"
+  ]
+ },
+ {
+  "text": "A box with air holes",
+  "answer": "cursed",
+  "decoys": [
+   "-300",
+   "An angry goose. It bites your wallet."
+  ]
+ },
+ {
+  "text": "A glittery gift bag",
+  "answer": "jackpot",
+  "decoys": [
+   "600",
+   "Concert tickets you can resell."
+  ]
+ },
+ {
+  "text": "A box labeled DO NOT OPEN",
+  "answer": "cursed",
+  "decoys": [
+   "-600",
+   "A swarm of bills. Late fees included."
+  ]
+ },
+ {
+  "text": "A dusty old treasure chest",
+  "answer": "jackpot",
+  "decoys": [
+   "900",
+   "Gold coins!"
+  ]
+ },
+ {
+  "text": "A cardboard box with a bow",
+  "answer": "dud",
+  "decoys": [
+   "10",
+   "More cardboard."
+  ]
+ },
+ {
+  "text": "A cooler full of ice",
+  "answer": "dud",
+  "decoys": [
+   "50",
+   "Warm soda. Somehow."
+  ]
+ },
+ {
+  "text": "A mysterious glowing orb",
+  "answer": "cursed",
+  "decoys": [
+   "-500",
+   "It's radioactive. Cleanup costs extra."
+  ]
+ },
+ {
+  "text": "A box of old family photos",
+  "answer": "dud",
+  "decoys": [
+   "0",
+   "Strangers' vacation photos."
+  ]
+ },
+ {
+  "text": "A locked safe",
+  "answer": "jackpot",
+  "decoys": [
+   "1100",
+   "A stack of rare baseball cards!"
+  ]
+ },
+ {
+  "text": "A suspiciously wiggly package",
+  "answer": "cursed",
+  "decoys": [
+   "-350",
+   "A pet octopus with expensive tastes."
+  ]
+ },
+ {
+  "text": "A shoebox tied with string",
+  "answer": "jackpot",
+  "decoys": [
+   "500",
+   "Vintage sneakers worth a fortune."
+  ]
+ },
+ {
+  "text": "A lunchbox from 1985",
+  "answer": "dud",
+  "decoys": [
+   "40",
+   "A fossilized sandwich."
+  ]
+ },
+ {
+  "text": "A box that hums quietly",
+  "answer": "jackpot",
+  "decoys": [
+   "800",
+   "A brand-new game console!"
+  ]
+ },
+ {
+  "text": "A crate stamped FRAGILE",
+  "answer": "dud",
+  "decoys": [
+   "15",
+   "It was fragile. Now it's pieces."
+  ]
+ },
+ {
+  "text": "A golden egg",
+  "answer": "jackpot",
+  "decoys": [
+   "1400",
+   "It's real gold!"
+  ]
+ },
+ {
+  "text": "A box that's warm to the touch",
+  "answer": "cursed",
+  "decoys": [
+   "-250",
+   "A tiny dragon. It ate your savings."
+  ]
+ },
+ {
+  "text": "A bag of mystery socks",
+  "answer": "dud",
+  "decoys": [
+   "5",
+   "Forty left socks."
+  ]
+ },
+ {
+  "text": "An antique music box",
+  "answer": "jackpot",
+  "decoys": [
+   "700",
+   "A priceless antique!"
+  ]
+ },
+ {
+  "text": "A box covered in warning stickers",
+  "answer": "cursed",
+  "decoys": [
+   "-700",
+   "A bill for a broken spaceship."
+  ]
+ },
+ {
+  "text": "A padlocked duffel bag",
+  "answer": "jackpot",
+  "decoys": [
+   "1000",
+   "Lottery winnings!"
+  ]
+ },
+ {
+  "text": "A box that rattles",
+  "answer": "dud",
+  "decoys": [
+   "25",
+   "Loose buttons."
+  ]
+ },
+ {
+  "text": "An envelope with a wax seal",
+  "answer": "cursed",
+  "decoys": [
+   "-450",
+   "A fine from the Royal Library."
+  ]
+ },
+ {
+  "text": "A bright red balloon crate",
+  "answer": "dud",
+  "decoys": [
+   "35",
+   "Deflated balloons."
+  ]
+ },
+ {
+  "text": "A plain brown envelope",
+  "answer": "jackpot",
+  "decoys": [
+   "650",
+   "A gift card!"
+  ]
+ },
+ {
+  "text": "A box that giggles",
+  "answer": "cursed",
+  "decoys": [
+   "-200",
+   "A prankster clown who charges by the hour."
+  ]
+ },
+ {
+  "text": "A bejeweled jewelry box",
+  "answer": "jackpot",
+  "decoys": [
+   "1300",
+   "Pearls and rubies!"
+  ]
+ },
+ {
+  "text": "A box full of packing peanuts",
+  "answer": "dud",
+  "decoys": [
+   "0",
+   "Only packing peanuts. All the way down."
+  ]
+ },
+ {
+  "text": "A tiny box with a big bow",
+  "answer": "jackpot",
+  "decoys": [
+   "550",
+   "A tiny gold bar!"
+  ]
+ },
+ {
+  "text": "A leaky aquarium crate",
+  "answer": "cursed",
+  "decoys": [
+   "-380",
+   "A flood. Your floors need replacing."
+  ]
+ },
+ {
+  "text": "A pirate's barrel",
+  "answer": "jackpot",
+  "decoys": [
+   "950",
+   "Buried treasure!"
+  ]
+ },
+ {
+  "text": "A box with a question mark on it",
+  "answer": "dud",
+  "decoys": [
+   "45",
+   "A smaller box with a question mark on it."
+  ]
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "text": "IC",
+  "answer": "easy"
+ },
+ {
+  "text": "OR",
+  "answer": "easy"
+ },
+ {
+  "text": "RO",
+  "answer": "easy"
+ },
+ {
+  "text": "NT",
+  "answer": "easy"
+ },
+ {
+  "text": "IT",
+  "answer": "easy"
+ },
+ {
+  "text": "IE",
+  "answer": "easy"
+ },
+ {
+  "text": "LA",
+  "answer": "easy"
+ },
+ {
+  "text": "CO",
+  "answer": "easy"
+ },
+ {
+  "text": "DE",
+  "answer": "easy"
+ },
+ {
+  "text": "IO",
+  "answer": "easy"
+ },
+ {
+  "text": "SS",
+  "answer": "easy"
+ },
+ {
+  "text": "RS",
+  "answer": "easy"
+ },
+ {
+  "text": "NS",
+  "answer": "easy"
+ },
+ {
+  "text": "NI",
+  "answer": "easy"
+ },
+ {
+  "text": "CA",
+  "answer": "easy"
+ },
+ {
+  "text": "AS",
+  "answer": "easy"
+ },
+ {
+  "text": "TA",
+  "answer": "easy"
+ },
+ {
+  "text": "DI",
+  "answer": "easy"
+ },
+ {
+  "text": "HE",
+  "answer": "easy"
+ },
+ {
+  "text": "TR",
+  "answer": "easy"
+ },
+ {
+  "text": "TO",
+  "answer": "easy"
+ },
+ {
+  "text": "ME",
+  "answer": "easy"
+ },
+ {
+  "text": "CH",
+  "answer": "easy"
+ },
+ {
+  "text": "UN",
+  "answer": "easy"
+ },
+ {
+  "text": "LO",
+  "answer": "easy"
+ },
+ {
+  "text": "EL",
+  "answer": "easy"
+ },
+ {
+  "text": "LL",
+  "answer": "easy"
+ },
+ {
+  "text": "OL",
+  "answer": "easy"
+ },
+ {
+  "text": "ET",
+  "answer": "easy"
+ },
+ {
+  "text": "OU",
+  "answer": "easy"
+ },
+ {
+  "text": "MA",
+  "answer": "easy"
+ },
+ {
+  "text": "SI",
+  "answer": "easy"
+ },
+ {
+  "text": "MI",
+  "answer": "easy"
+ },
+ {
+  "text": "PE",
+  "answer": "easy"
+ },
+ {
+  "text": "IL",
+  "answer": "easy"
+ },
+ {
+  "text": "VE",
+  "answer": "easy"
+ },
+ {
+  "text": "ATI",
+  "answer": "easy"
+ },
+ {
+  "text": "AC",
+  "answer": "easy"
+ },
+ {
+  "text": "ION",
+  "answer": "easy"
+ },
+ {
+  "text": "LY",
+  "answer": "easy"
+ },
+ {
+  "text": "ESS",
+  "answer": "easy"
+ },
+ {
+  "text": "NA",
+  "answer": "easy"
+ },
+ {
+  "text": "US",
+  "answer": "easy"
+ },
+ {
+  "text": "ERS",
+  "answer": "easy"
+ },
+ {
+  "text": "EA",
+  "answer": "easy"
+ },
+ {
+  "text": "NES",
+  "answer": "easy"
+ },
+ {
+  "text": "OM",
+  "answer": "easy"
+ },
+ {
+  "text": "IA",
+  "answer": "easy"
+ },
+ {
+  "text": "TH",
+  "answer": "easy"
+ },
+ {
+  "text": "HI",
+  "answer": "easy"
+ },
+ {
+  "text": "UR",
+  "answer": "easy"
+ },
+ {
+  "text": "OS",
+  "answer": "easy"
+ },
+ {
+  "text": "HO",
+  "answer": "easy"
+ },
+ {
+  "text": "TS",
+  "answer": "easy"
+ },
+ {
+  "text": "ND",
+  "answer": "easy"
+ },
+ {
+  "text": "IES",
+  "answer": "easy"
+ },
+ {
+  "text": "TER",
+  "answer": "easy"
+ },
+ {
+  "text": "HA",
+  "answer": "easy"
+ },
+ {
+  "text": "CE",
+  "answer": "easy"
+ },
+ {
+  "text": "NO",
+  "answer": "easy"
+ },
+ {
+  "text": "SP",
+  "answer": "medium"
+ },
+ {
+  "text": "IM",
+  "answer": "medium"
+ },
+ {
+  "text": "AG",
+  "answer": "medium"
+ },
+ {
+  "text": "SO",
+  "answer": "medium"
+ },
+ {
+  "text": "UM",
+  "answer": "medium"
+ },
+ {
+  "text": "CR",
+  "answer": "medium"
+ },
+ {
+  "text": "RT",
+  "answer": "medium"
+ },
+ {
+  "text": "BO",
+  "answer": "medium"
+ },
+ {
+  "text": "GR",
+  "answer": "medium"
+ },
+ {
+  "text": "ISE",
+  "answer": "medium"
+ },
+ {
+  "text": "ALI",
+  "answer": "medium"
+ },
+ {
+  "text": "EP",
+  "answer": "medium"
+ },
+ {
+  "text": "EST",
+  "answer": "medium"
+ },
+ {
+  "text": "IR",
+  "answer": "medium"
+ },
+ {
+  "text": "TIC",
+  "answer": "medium"
+ },
+ {
+  "text": "SM",
+  "answer": "medium"
+ },
+ {
+  "text": "FI",
+  "answer": "medium"
+ },
+ {
+  "text": "AI",
+  "answer": "medium"
+ },
+ {
+  "text": "GA",
+  "answer": "medium"
+ },
+ {
+  "text": "IV",
+  "answer": "medium"
+ },
+ {
+  "text": "LIN",
+  "answer": "medium"
+ },
+ {
+  "text": "ZE",
+  "answer": "medium"
+ },
+ {
+  "text": "PL",
+  "answer": "medium"
+ },
+ {
+  "text": "SSE",
+  "answer": "medium"
+ },
+ {
+  "text": "DO",
+  "answer": "medium"
+ },
+ {
+  "text": "IG",
+  "answer": "medium"
+ },
+ {
+  "text": "MP",
+  "answer": "medium"
+ },
+ {
+  "text": "VI",
+  "answer": "medium"
+ },
+ {
+  "text": "ERI",
+  "answer": "medium"
+ },
+ {
+  "text": "PER",
+  "answer": "medium"
+ },
+ {
+  "text": "RES",
+  "answer": "medium"
+ },
+ {
+  "text": "TU",
+  "answer": "medium"
+ },
+ {
+  "text": "CU",
+  "answer": "medium"
+ },
+ {
+  "text": "TT",
+  "answer": "medium"
+ },
+ {
+  "text": "VER",
+  "answer": "medium"
+ },
+ {
+  "text": "OUS",
+  "answer": "medium"
+ },
+ {
+  "text": "ANT",
+  "answer": "medium"
+ },
+ {
+  "text": "ALL",
+  "answer": "medium"
+ },
+ {
+  "text": "ICA",
+  "answer": "medium"
+ },
+ {
+  "text": "OD",
+  "answer": "medium"
+ },
+ {
+  "text": "BLE",
+  "answer": "medium"
+ },
+ {
+  "text": "LU",
+  "answer": "medium"
+ },
+ {
+  "text": "LES",
+  "answer": "medium"
+ },
+ {
+  "text": "DA",
+  "answer": "medium"
+ },
+ {
+  "text": "ITI",
+  "answer": "medium"
+ },
+ {
+  "text": "IP",
+  "answer": "medium"
+ },
+ {
+  "text": "TED",
+  "answer": "medium"
+ },
+ {
+  "text": "GS",
+  "answer": "medium"
+ },
+ {
+  "text": "RU",
+  "answer": "medium"
+ },
+ {
+  "text": "KI",
+  "answer": "medium"
+ },
+ {
+  "text": "CAL",
+  "answer": "medium"
+ },
+ {
+  "text": "DS",
+  "answer": "medium"
+ },
+ {
+  "text": "LS",
+  "answer": "medium"
+ },
+ {
+  "text": "TES",
+  "answer": "medium"
+ },
+ {
+  "text": "BR",
+  "answer": "medium"
+ },
+ {
+  "text": "RIN",
+  "answer": "medium"
+ },
+ {
+  "text": "CON",
+  "answer": "medium"
+ },
+ {
+  "text": "OV",
+  "answer": "medium"
+ },
+ {
+  "text": "RM",
+  "answer": "medium"
+ },
+ {
+  "text": "QU",
+  "answer": "medium"
+ },
+ {
+  "text": "TOR",
+  "answer": "medium"
+ },
+ {
+  "text": "MEN",
+  "answer": "medium"
+ },
+ {
+  "text": "TRA",
+  "answer": "medium"
+ },
+ {
+  "text": "IZE",
+  "answer": "medium"
+ },
+ {
+  "text": "LIS",
+  "answer": "medium"
+ },
+ {
+  "text": "RAT",
+  "answer": "medium"
+ },
+ {
+  "text": "TRI",
+  "answer": "medium"
+ },
+ {
+  "text": "NGS",
+  "answer": "medium"
+ },
+ {
+  "text": "ABL",
+  "answer": "medium"
+ },
+ {
+  "text": "DIS",
+  "answer": "medium"
+ },
+ {
+  "text": "STE",
+  "answer": "medium"
+ },
+ {
+  "text": "STI",
+  "answer": "medium"
+ },
+ {
+  "text": "ENE",
+  "answer": "medium"
+ },
+ {
+  "text": "DER",
+  "answer": "medium"
+ },
+ {
+  "text": "LIT",
+  "answer": "medium"
+ },
+ {
+  "text": "ISM",
+  "answer": "medium"
+ },
+ {
+  "text": "LAT",
+  "answer": "medium"
+ },
+ {
+  "text": "NTE",
+  "answer": "medium"
+ },
+ {
+  "text": "ONI",
+  "answer": "medium"
+ },
+ {
+  "text": "ARI",
+  "answer": "medium"
+ },
+ {
+  "text": "NTI",
+  "answer": "medium"
+ },
+ {
+  "text": "ERE",
+  "answer": "medium"
+ },
+ {
+  "text": "PRE",
+  "answer": "medium"
+ },
+ {
+  "text": "IVE",
+  "answer": "medium"
+ },
+ {
+  "text": "GRA",
+  "answer": "medium"
+ },
+ {
+  "text": "OVE",
+  "answer": "medium"
+ },
+ {
+  "text": "STR",
+  "answer": "medium"
+ },
+ {
+  "text": "PRO",
+  "answer": "medium"
+ },
+ {
+  "text": "HER",
+  "answer": "medium"
+ },
+ {
+  "text": "THE",
+  "answer": "medium"
+ }
+]

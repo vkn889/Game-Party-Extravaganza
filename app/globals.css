@@ -1,0 +1,136 @@
+@import "tailwindcss";
+
+/* PRD §4 design tokens: five colors on a dark plum base. */
+:root {
+  --plum: #462749;
+  --purple: #8332ac;
+  --pink: #e086d3;
+  --peach: #f2d1c9;
+  --mint: #bad1cd;
+  --plum-deep: #2e1830;
+  --plum-raised: #56305a;
+}
+
+@theme inline {
+  --color-plum: var(--plum);
+  --color-plum-deep: var(--plum-deep);
+  --color-plum-raised: var(--plum-raised);
+  --color-purple: var(--purple);
+  --color-pink: var(--pink);
+  --color-peach: var(--peach);
+  --color-mint: var(--mint);
+  --font-display: var(--font-fredoka), ui-rounded, "Arial Rounded MT Bold", system-ui, sans-serif;
+  --font-sans: var(--font-inter), system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html,
+body {
+  background: var(--plum);
+  color: var(--peach);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+}
+
+/* Pink focus rings (PRD §4) on everything interactive. */
+:where(button, a, input, textarea, select, [tabindex]):focus-visible {
+  outline: 3px solid var(--pink);
+  outline-offset: 3px;
+}
+
+button:not(:disabled),
+[role="button"]:not([aria-disabled="true"]) {
+  cursor: pointer;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* Card shadows use plum (PRD §4). */
+.shadow-card {
+  box-shadow: 0 6px 0 0 var(--plum-deep), 0 14px 30px -12px rgb(20 8 22 / 0.8);
+}
+
+.shadow-card-sm {
+  box-shadow: 0 4px 0 0 var(--plum-deep);
+}
+
+/* Host stage scale (PRD §4): readable from 3 m. */
+.stage-code {
+  font-size: 120px;
+  line-height: 1;
+}
+
+.stage-prompt {
+  font-size: 48px;
+  line-height: 1.15;
+}
+
+@media (max-width: 1100px) {
+  .stage-code {
+    font-size: 88px;
+  }
+  .stage-prompt {
+    font-size: 36px;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+@keyframes pulse-pink {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgb(224 134 211 / 0.6);
+  }
+  50% {
+    box-shadow: 0 0 0 12px rgb(224 134 211 / 0);
+  }
+}
+
+.animate-your-turn {
+  animation: pulse-pink 1.6s ease-in-out infinite;
+}
+
+@keyframes float-up {
+  from {
+    transform: translateY(0) scale(0.8);
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+    transform: translateY(-20px) scale(1.1);
+  }
+  to {
+    transform: translateY(-60vh) scale(1);
+    opacity: 0;
+  }
+}
+
+.animate-float-up {
+  animation: float-up 3.2s ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Phones are portrait-only (PRD §2): cover the controller when turned sideways. */
+@custom-variant phone-landscape (@media (orientation: landscape) and (max-height: 520px));

@@ -1,0 +1,542 @@
+[
+ {
+  "text": "What is the largest planet in our solar system?",
+  "answer": "Jupiter",
+  "decoys": [
+   "Saturn",
+   "Neptune",
+   "Earth"
+  ]
+ },
+ {
+  "text": "How many legs does a spider have?",
+  "answer": "8",
+  "decoys": [
+   "6",
+   "10",
+   "12"
+  ]
+ },
+ {
+  "text": "What is the chemical symbol for gold?",
+  "answer": "Au",
+  "decoys": [
+   "Ag",
+   "Gd",
+   "Go"
+  ]
+ },
+ {
+  "text": "Which ocean is the largest?",
+  "answer": "Pacific",
+  "decoys": [
+   "Atlantic",
+   "Indian",
+   "Arctic"
+  ]
+ },
+ {
+  "text": "How many sides does a hexagon have?",
+  "answer": "6",
+  "decoys": [
+   "5",
+   "7",
+   "8"
+  ]
+ },
+ {
+  "text": "What is the capital of Australia?",
+  "answer": "Canberra",
+  "decoys": [
+   "Sydney",
+   "Melbourne",
+   "Perth"
+  ]
+ },
+ {
+  "text": "Which planet is known as the Red Planet?",
+  "answer": "Mars",
+  "decoys": [
+   "Venus",
+   "Mercury",
+   "Jupiter"
+  ]
+ },
+ {
+  "text": "What is the hardest natural substance?",
+  "answer": "Diamond",
+  "decoys": [
+   "Quartz",
+   "Iron",
+   "Granite"
+  ]
+ },
+ {
+  "text": "How many bones are in the adult human body?",
+  "answer": "206",
+  "decoys": [
+   "186",
+   "226",
+   "256"
+  ]
+ },
+ {
+  "text": "What gas do plants absorb from the air?",
+  "answer": "Carbon dioxide",
+  "decoys": [
+   "Oxygen",
+   "Nitrogen",
+   "Helium"
+  ]
+ },
+ {
+  "text": "Which animal is the largest mammal?",
+  "answer": "Blue whale",
+  "decoys": [
+   "African elephant",
+   "Giraffe",
+   "Sperm whale"
+  ]
+ },
+ {
+  "text": "What is the freezing point of water in Fahrenheit?",
+  "answer": "32°F",
+  "decoys": [
+   "0°F",
+   "212°F",
+   "100°F"
+  ]
+ },
+ {
+  "text": "Who painted the Mona Lisa?",
+  "answer": "Leonardo da Vinci",
+  "decoys": [
+   "Michelangelo",
+   "Raphael",
+   "Vincent van Gogh"
+  ]
+ },
+ {
+  "text": "What is the smallest prime number?",
+  "answer": "2",
+  "decoys": [
+   "1",
+   "3",
+   "0"
+  ]
+ },
+ {
+  "text": "Which country is home to the kangaroo?",
+  "answer": "Australia",
+  "decoys": [
+   "New Zealand",
+   "South Africa",
+   "Brazil"
+  ]
+ },
+ {
+  "text": "How many continents are there?",
+  "answer": "7",
+  "decoys": [
+   "5",
+   "6",
+   "8"
+  ]
+ },
+ {
+  "text": "What is the longest river in South America?",
+  "answer": "Amazon",
+  "decoys": [
+   "Paraná",
+   "Orinoco",
+   "Magdalena"
+  ]
+ },
+ {
+  "text": "What is H2O more commonly called?",
+  "answer": "Water",
+  "decoys": [
+   "Hydrogen peroxide",
+   "Salt",
+   "Steam"
+  ]
+ },
+ {
+  "text": "In which country are the ancient pyramids of Giza?",
+  "answer": "Egypt",
+  "decoys": [
+   "Mexico",
+   "Peru",
+   "Sudan"
+  ]
+ },
+ {
+  "text": "What is the tallest mountain above sea level?",
+  "answer": "Mount Everest",
+  "decoys": [
+   "K2",
+   "Kilimanjaro",
+   "Denali"
+  ]
+ },
+ {
+  "text": "Which organ pumps blood through the body?",
+  "answer": "Heart",
+  "decoys": [
+   "Liver",
+   "Lungs",
+   "Kidney"
+  ]
+ },
+ {
+  "text": "How many minutes are in a full day?",
+  "answer": "1,440",
+  "decoys": [
+   "1,240",
+   "1,640",
+   "2,400"
+  ]
+ },
+ {
+  "text": "Which instrument has 88 keys?",
+  "answer": "Piano",
+  "decoys": [
+   "Organ",
+   "Harpsichord",
+   "Accordion"
+  ]
+ },
+ {
+  "text": "What is the main language spoken in Brazil?",
+  "answer": "Portuguese",
+  "decoys": [
+   "Spanish",
+   "Brazilian",
+   "French"
+  ]
+ },
+ {
+  "text": "Which bird is a symbol of peace?",
+  "answer": "Dove",
+  "decoys": [
+   "Eagle",
+   "Owl",
+   "Swan"
+  ]
+ },
+ {
+  "text": "What color do you get by mixing blue and yellow?",
+  "answer": "Green",
+  "decoys": [
+   "Purple",
+   "Orange",
+   "Brown"
+  ]
+ },
+ {
+  "text": "How many players are on a soccer team on the field?",
+  "answer": "11",
+  "decoys": [
+   "9",
+   "10",
+   "12"
+  ]
+ },
+ {
+  "text": "What is the capital of Japan?",
+  "answer": "Tokyo",
+  "decoys": [
+   "Kyoto",
+   "Osaka",
+   "Hiroshima"
+  ]
+ },
+ {
+  "text": "Which planet has the most famous ring system?",
+  "answer": "Saturn",
+  "decoys": [
+   "Uranus",
+   "Jupiter",
+   "Neptune"
+  ]
+ },
+ {
+  "text": "What is the largest desert on Earth, including polar deserts?",
+  "answer": "Antarctic Desert",
+  "decoys": [
+   "Sahara",
+   "Gobi",
+   "Arabian Desert"
+  ]
+ },
+ {
+  "text": "Which vitamin does sunlight help your body make?",
+  "answer": "Vitamin D",
+  "decoys": [
+   "Vitamin C",
+   "Vitamin A",
+   "Vitamin K"
+  ]
+ },
+ {
+  "text": "What is the fastest land animal?",
+  "answer": "Cheetah",
+  "decoys": [
+   "Lion",
+   "Pronghorn",
+   "Greyhound"
+  ]
+ },
+ {
+  "text": "How many hearts does an octopus have?",
+  "answer": "3",
+  "decoys": [
+   "1",
+   "2",
+   "8"
+  ]
+ },
+ {
+  "text": "What is the square root of 144?",
+  "answer": "12",
+  "decoys": [
+   "14",
+   "11",
+   "16"
+  ]
+ },
+ {
+  "text": "Which element has the chemical symbol O?",
+  "answer": "Oxygen",
+  "decoys": [
+   "Osmium",
+   "Gold",
+   "Oganesson"
+  ]
+ },
+ {
+  "text": "What is the capital of Canada?",
+  "answer": "Ottawa",
+  "decoys": [
+   "Toronto",
+   "Vancouver",
+   "Montreal"
+  ]
+ },
+ {
+  "text": "Which is the smallest planet in our solar system?",
+  "answer": "Mercury",
+  "decoys": [
+   "Mars",
+   "Pluto",
+   "Venus"
+  ]
+ },
+ {
+  "text": "What do bees make?",
+  "answer": "Honey",
+  "decoys": [
+   "Silk",
+   "Wax paper",
+   "Nectarine"
+  ]
+ },
+ {
+  "text": "Who wrote 'Romeo and Juliet'?",
+  "answer": "William Shakespeare",
+  "decoys": [
+   "Charles Dickens",
+   "Jane Austen",
+   "Mark Twain"
+  ]
+ },
+ {
+  "text": "How many strings does a standard guitar have?",
+  "answer": "6",
+  "decoys": [
+   "4",
+   "5",
+   "8"
+  ]
+ },
+ {
+  "text": "What is the boiling point of water at sea level in Celsius?",
+  "answer": "100°C",
+  "decoys": [
+   "90°C",
+   "110°C",
+   "212°C"
+  ]
+ },
+ {
+  "text": "Which continent is the Sahara Desert on?",
+  "answer": "Africa",
+  "decoys": [
+   "Asia",
+   "Australia",
+   "South America"
+  ]
+ },
+ {
+  "text": "What is the largest organ of the human body?",
+  "answer": "Skin",
+  "decoys": [
+   "Liver",
+   "Brain",
+   "Lungs"
+  ]
+ },
+ {
+  "text": "Which shape has three sides?",
+  "answer": "Triangle",
+  "decoys": [
+   "Square",
+   "Pentagon",
+   "Circle"
+  ]
+ },
+ {
+  "text": "What currency is used in Japan?",
+  "answer": "Yen",
+  "decoys": [
+   "Won",
+   "Yuan",
+   "Ringgit"
+  ]
+ },
+ {
+  "text": "How many days are in a leap year?",
+  "answer": "366",
+  "decoys": [
+   "365",
+   "364",
+   "367"
+  ]
+ },
+ {
+  "text": "Which gas makes up most of Earth's atmosphere?",
+  "answer": "Nitrogen",
+  "decoys": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Argon"
+  ]
+ },
+ {
+  "text": "What is the capital of Italy?",
+  "answer": "Rome",
+  "decoys": [
+   "Milan",
+   "Venice",
+   "Florence"
+  ]
+ },
+ {
+  "text": "Which animal is known as the 'king of the jungle'?",
+  "answer": "Lion",
+  "decoys": [
+   "Tiger",
+   "Gorilla",
+   "Elephant"
+  ]
+ },
+ {
+  "text": "What is 7 × 8?",
+  "answer": "56",
+  "decoys": [
+   "54",
+   "48",
+   "64"
+  ]
+ },
+ {
+  "text": "Which planet is closest to the Sun?",
+  "answer": "Mercury",
+  "decoys": [
+   "Venus",
+   "Earth",
+   "Mars"
+  ]
+ },
+ {
+  "text": "What is the name of the galaxy we live in?",
+  "answer": "Milky Way",
+  "decoys": [
+   "Andromeda",
+   "Sombrero",
+   "Whirlpool"
+  ]
+ },
+ {
+  "text": "How many teeth does a typical adult human have?",
+  "answer": "32",
+  "decoys": [
+   "28",
+   "30",
+   "36"
+  ]
+ },
+ {
+  "text": "Which country gifted the Statue of Liberty to the USA?",
+  "answer": "France",
+  "decoys": [
+   "England",
+   "Spain",
+   "Italy"
+  ]
+ },
+ {
+  "text": "What is the largest country by area?",
+  "answer": "Russia",
+  "decoys": [
+   "Canada",
+   "China",
+   "United States"
+  ]
+ },
+ {
+  "text": "Which metal is liquid at room temperature?",
+  "answer": "Mercury",
+  "decoys": [
+   "Lead",
+   "Aluminum",
+   "Tin"
+  ]
+ },
+ {
+  "text": "What is the main ingredient in guacamole?",
+  "answer": "Avocado",
+  "decoys": [
+   "Tomato",
+   "Lime",
+   "Pea"
+  ]
+ },
+ {
+  "text": "How many colors are in a rainbow?",
+  "answer": "7",
+  "decoys": [
+   "6",
+   "8",
+   "5"
+  ]
+ },
+ {
+  "text": "Which sea creature has a shell and moves sideways?",
+  "answer": "Crab",
+  "decoys": [
+   "Lobster",
+   "Shrimp",
+   "Starfish"
+  ]
+ },
+ {
+  "text": "What is the capital of Spain?",
+  "answer": "Madrid",
+  "decoys": [
+   "Barcelona",
+   "Seville",
+   "Valencia"
+  ]
+ }
+]

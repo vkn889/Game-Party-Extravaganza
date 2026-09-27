@@ -1,0 +1,46 @@
+{
+  "name": "game-party-extravaganza",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc --noEmit",
+    "seed:sql": "node scripts/seed-prompts.mjs",
+    "seed:push": "node scripts/seed-prompts.mjs --push"
+  },
+  "dependencies": {
+    "@supabase/auth-js": "^2.117.2",
+    "@supabase/realtime-js": "^2.117.2",
+    "@supabase/supabase-js": "^2.117.2",
+    "framer-motion": "^13.4.4",
+    "lucide-react": "^1.48.0",
+    "next": "15.5.26",
+    "qrcode.react": "^4.2.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@playwright/test": "^1.63.0",
+    "@tailwindcss/postcss": "^4",
+    "@testing-library/dom": "^10.4.2",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@types/node": "^24.19.0",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.1.1",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.26",
+    "jsdom": "^29.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^5.0.2"
+  }
+}

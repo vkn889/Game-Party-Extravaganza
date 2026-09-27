@@ -1,0 +1,482 @@
+[
+ {
+  "text": "The worst thing to find in your cereal box: ___",
+  "decoys": [
+   "A tiny lawyer",
+   "Last year's cereal",
+   "A strongly worded letter"
+  ]
+ },
+ {
+  "text": "A terrible name for a cruise ship: ___",
+  "decoys": [
+   "The Seasick Sally",
+   "Unsinkable II",
+   "The Floating Buffet of Regret"
+  ]
+ },
+ {
+  "text": "What your dog is actually thinking when it stares at you: ___",
+  "decoys": [
+   "Is that cheese?",
+   "I know what you did",
+   "Walk. Walk. Walk."
+  ]
+ },
+ {
+  "text": "The real reason the dinosaurs went extinct: ___",
+  "decoys": [
+   "They skipped leg day",
+   "Bad Wi-Fi",
+   "Too many group chats"
+  ]
+ },
+ {
+  "text": "A rejected flavor of ice cream: ___",
+  "decoys": [
+   "Wet Sock Swirl",
+   "Broccoli Crunch",
+   "Parking Ticket"
+  ]
+ },
+ {
+  "text": "The worst thing to hear from your pilot: ___",
+  "decoys": [
+   "Anyone know how to land?",
+   "Oops",
+   "Hold my juice box"
+  ]
+ },
+ {
+  "text": "A superhero whose only power is ___",
+  "decoys": [
+   "Finding the TV remote",
+   "Always knowing the Wi-Fi password",
+   "Perfectly toasted bread"
+  ]
+ },
+ {
+  "text": "What's really at the center of the Earth: ___",
+  "decoys": [
+   "A very hot gift shop",
+   "Lost socks",
+   "Another, smaller Earth"
+  ]
+ },
+ {
+  "text": "The most boring board game ever made: ___",
+  "decoys": [
+   "Waiting Room: The Game",
+   "Chutes and Paperwork",
+   "Taxes Deluxe"
+  ]
+ },
+ {
+  "text": "A bad slogan for a dentist: ___",
+  "decoys": [
+   "We'll get to the root of your wallet",
+   "Brace yourself",
+   "It only hurts a lot"
+  ]
+ },
+ {
+  "text": "The first thing aliens would say after landing: ___",
+  "decoys": [
+   "Where's the bathroom?",
+   "Nice planet, shame about the traffic",
+   "Take us to your snacks"
+  ]
+ },
+ {
+  "text": "What grandma keeps in her purse: ___",
+  "decoys": [
+   "A fully grown cat",
+   "Forty-seven tissues",
+   "Emergency butterscotch"
+  ]
+ },
+ {
+  "text": "A terrible theme for a kid's birthday party: ___",
+  "decoys": [
+   "Tax season",
+   "Quiet reflection",
+   "The history of beige"
+  ]
+ },
+ {
+  "text": "The worst superpower to have at a job interview: ___",
+  "decoys": [
+   "Uncontrollable honesty",
+   "Turning invisible when nervous",
+   "Loud stomach"
+  ]
+ },
+ {
+  "text": "A new holiday nobody asked for: ___",
+  "decoys": [
+   "National Sock Day",
+   "Leftover Appreciation Week",
+   "Monday Two"
+  ]
+ },
+ {
+  "text": "What robots dream about: ___",
+  "decoys": [
+   "Electric sheep, obviously",
+   "A firmware update",
+   "Being a toaster"
+  ]
+ },
+ {
+  "text": "The secret ingredient in the school cafeteria's mystery meat: ___",
+  "decoys": [
+   "Hope",
+   "Yesterday",
+   "Mystery"
+  ]
+ },
+ {
+  "text": "A terrible thing to yell at a wedding: ___",
+  "decoys": [
+   "Is the open bar open?",
+   "I object to the cake!",
+   "Plot twist!"
+  ]
+ },
+ {
+  "text": "A strange thing to collect: ___",
+  "decoys": [
+   "Other people's receipts",
+   "Empty jars",
+   "Pictures of clouds that look like clouds"
+  ]
+ },
+ {
+  "text": "The worst possible name for a pet goldfish: ___",
+  "decoys": [
+   "Lunch",
+   "Mr. Floats",
+   "Sir Blub the Temporary"
+  ]
+ },
+ {
+  "text": "If cats could talk, the first thing they'd say is ___",
+  "decoys": [
+   "Your food bowl is half empty",
+   "I was here first",
+   "Move"
+  ]
+ },
+ {
+  "text": "The worst thing to put on a pizza: ___",
+  "decoys": [
+   "Gummy worms",
+   "Regret",
+   "More pizza"
+  ]
+ },
+ {
+  "text": "An unusual Olympic sport: ___",
+  "decoys": [
+   "Competitive napping",
+   "Synchronized complaining",
+   "Extreme hide and seek"
+  ]
+ },
+ {
+  "text": "A bad reason to call 911: ___",
+  "decoys": [
+   "My toast is too crunchy",
+   "I'm bored",
+   "The cat is judging me"
+  ]
+ },
+ {
+  "text": "The title of the worst self-help book: ___",
+  "decoys": [
+   "Just Give Up",
+   "You're Probably Fine",
+   "Try Less"
+  ]
+ },
+ {
+  "text": "The real reason socks go missing in the laundry: ___",
+  "decoys": [
+   "The dryer is hungry",
+   "They elope",
+   "Sock witness protection"
+  ]
+ },
+ {
+  "text": "A terrible fortune cookie message: ___",
+  "decoys": [
+   "You will step on a Lego",
+   "Help, I'm trapped in a cookie factory",
+   "Same as yesterday"
+  ]
+ },
+ {
+  "text": "The worst thing to say on a first date: ___",
+  "decoys": [
+   "My mom is outside",
+   "I've already named our kids",
+   "Do you have a spare kidney?"
+  ]
+ },
+ {
+  "text": "A rejected Disney movie title: ___",
+  "decoys": [
+   "Frozen Peas",
+   "The Little Mer-Accountant",
+   "Beauty and the Beast's Taxes"
+  ]
+ },
+ {
+  "text": "The worst way to start a speech: ___",
+  "decoys": [
+   "So, about the fire",
+   "I didn't prepare anything",
+   "Is this thing on? Good. Goodbye."
+  ]
+ },
+ {
+  "text": "A weird thing to find in a hotel room: ___",
+  "decoys": [
+   "A second, smaller hotel room",
+   "A goat",
+   "Someone else's vacation"
+  ]
+ },
+ {
+  "text": "What happens to your old phone after you get a new one: ___",
+  "decoys": [
+   "It starts a band",
+   "Witness protection",
+   "Drawer jail"
+  ]
+ },
+ {
+  "text": "A strange law that should exist: ___",
+  "decoys": [
+   "Mandatory naps",
+   "No talking before coffee",
+   "Free snacks on Tuesdays"
+  ]
+ },
+ {
+  "text": "The most useless kitchen gadget: ___",
+  "decoys": [
+   "An electric spoon",
+   "A toaster for one crumb",
+   "Butter umbrella"
+  ]
+ },
+ {
+  "text": "A bad name for a rock band: ___",
+  "decoys": [
+   "The Mild Salsas",
+   "Pebbles",
+   "Quiet Library"
+  ]
+ },
+ {
+  "text": "The worst ride at an amusement park: ___",
+  "decoys": [
+   "The Line",
+   "Tax Mountain",
+   "The Gentle Sway"
+  ]
+ },
+ {
+  "text": "A surprising thing to find in a treasure chest: ___",
+  "decoys": [
+   "An IOU",
+   "More, smaller treasure chests",
+   "A very old sandwich"
+  ]
+ },
+ {
+  "text": "What penguins talk about when nobody's watching: ___",
+  "decoys": [
+   "The fish market",
+   "Who wore it better",
+   "Global warming, honestly"
+  ]
+ },
+ {
+  "text": "A terrible idea for a reality show: ___",
+  "decoys": [
+   "Watching Paint Dry: Live",
+   "Who Wants to Be a Thousandaire",
+   "Extreme Couch"
+  ]
+ },
+ {
+  "text": "A weird smell for a scented candle: ___",
+  "decoys": [
+   "New Car Regret",
+   "Grandma's Attic",
+   "Gym Bag"
+  ]
+ },
+ {
+  "text": "The worst sound to hear at 3 a.m.: ___",
+  "decoys": [
+   "Kazoo",
+   "Your name, whispered",
+   "A goat learning to sing"
+  ]
+ },
+ {
+  "text": "A thing you should never say to a genie: ___",
+  "decoys": [
+   "Surprise me",
+   "Make me a sandwich",
+   "I wish for more wishes... kidding!"
+  ]
+ },
+ {
+  "text": "What unicorns do on their day off: ___",
+  "decoys": [
+   "Laundry",
+   "Glitter detox",
+   "Pretend to be horses"
+  ]
+ },
+ {
+  "text": "A terrible piece of advice for new parents: ___",
+  "decoys": [
+   "Just wing it",
+   "Teach them to drive early",
+   "Let the cat raise them"
+  ]
+ },
+ {
+  "text": "A bad name for a new planet: ___",
+  "decoys": [
+   "Planet Fine",
+   "Kevin",
+   "Rocky McRockface"
+  ]
+ },
+ {
+  "text": "The worst item to bring to a camping trip: ___",
+  "decoys": [
+   "A piano",
+   "Only glitter",
+   "Your entire fridge"
+  ]
+ },
+ {
+  "text": "A job robots will never take from humans: ___",
+  "decoys": [
+   "Professional napper",
+   "Sock matcher",
+   "Ice cream taster"
+  ]
+ },
+ {
+  "text": "What's actually inside a black hole: ___",
+  "decoys": [
+   "All the missing remotes",
+   "A very tall ladder",
+   "Space lint"
+  ]
+ },
+ {
+  "text": "The worst thing to say during a job interview: ___",
+  "decoys": [
+   "I'm mostly here for the snacks",
+   "What company is this?",
+   "I've never worked a day in my life"
+  ]
+ },
+ {
+  "text": "A strange thing to be famous for: ___",
+  "decoys": [
+   "World's slowest walker",
+   "Sneezing in harmony",
+   "Knowing every elevator"
+  ]
+ },
+ {
+  "text": "A rejected Crayola crayon color: ___",
+  "decoys": [
+   "Sad Beige",
+   "Wet Cardboard",
+   "Almost Blue"
+  ]
+ },
+ {
+  "text": "The worst thing a GPS could say: ___",
+  "decoys": [
+   "Recalculating... your life choices",
+   "You're on your own",
+   "Turn left into the lake"
+  ]
+ },
+ {
+  "text": "What really happens at a sleepover for grown-ups: ___",
+  "decoys": [
+   "Early bedtime",
+   "Tax talk",
+   "Comparing back pain"
+  ]
+ },
+ {
+  "text": "A new emoji we desperately need: ___",
+  "decoys": [
+   "Forgot why I walked in here",
+   "Low battery panic",
+   "Pretending to listen"
+  ]
+ },
+ {
+  "text": "The worst thing to find under your bed: ___",
+  "decoys": [
+   "Another bed",
+   "Your own shoes, judging you",
+   "A tiny landlord"
+  ]
+ },
+ {
+  "text": "A surprising use for a banana: ___",
+  "decoys": [
+   "Phone",
+   "Boomerang",
+   "Tiny canoe"
+  ]
+ },
+ {
+  "text": "A bad name for a hair salon: ___",
+  "decoys": [
+   "Curl Up and Dye",
+   "Oops",
+   "Hair Today, Gone Tomorrow"
+  ]
+ },
+ {
+  "text": "The last thing you want your barber to say: ___",
+  "decoys": [
+   "Oops",
+   "Hat season, right?",
+   "Do you trust me?"
+  ]
+ },
+ {
+  "text": "What the tooth fairy does with all those teeth: ___",
+  "decoys": [
+   "Builds a castle",
+   "Sells them online",
+   "Tooth soup"
+  ]
+ },
+ {
+  "text": "An awkward thing to say to your boss in the elevator: ___",
+  "decoys": [
+   "I've seen your search history",
+   "Nice elevator",
+   "So, raises?"
+  ]
+ }
+]

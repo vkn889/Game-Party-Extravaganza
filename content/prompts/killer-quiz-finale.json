@@ -1,0 +1,242 @@
+[
+ {
+  "text": "Which of these are planets?",
+  "answer": "Mars|Venus",
+  "decoys": [
+   "Pluto",
+   "The Moon"
+  ]
+ },
+ {
+  "text": "Which of these are mammals?",
+  "answer": "Dolphin|Bat",
+  "decoys": [
+   "Shark",
+   "Penguin"
+  ]
+ },
+ {
+  "text": "Which of these are fruits?",
+  "answer": "Tomato|Cucumber",
+  "decoys": [
+   "Carrot",
+   "Potato"
+  ]
+ },
+ {
+  "text": "Which of these are primary colors of paint?",
+  "answer": "Red|Blue",
+  "decoys": [
+   "Green",
+   "Purple"
+  ]
+ },
+ {
+  "text": "Which of these are prime numbers?",
+  "answer": "7|13",
+  "decoys": [
+   "9",
+   "15"
+  ]
+ },
+ {
+  "text": "Which of these are countries in Europe?",
+  "answer": "Portugal|Poland",
+  "decoys": [
+   "Peru",
+   "Pakistan"
+  ]
+ },
+ {
+  "text": "Which of these are noble gases?",
+  "answer": "Neon|Argon",
+  "decoys": [
+   "Nitrogen",
+   "Hydrogen"
+  ]
+ },
+ {
+  "text": "Which of these are insects?",
+  "answer": "Ant|Beetle",
+  "decoys": [
+   "Spider",
+   "Scorpion"
+  ]
+ },
+ {
+  "text": "Which of these are oceans?",
+  "answer": "Arctic|Indian",
+  "decoys": [
+   "Mediterranean",
+   "Caribbean"
+  ]
+ },
+ {
+  "text": "Which of these are vegetables?",
+  "answer": "Spinach|Broccoli",
+  "decoys": [
+   "Apple",
+   "Mango"
+  ]
+ },
+ {
+  "text": "Which of these are string instruments?",
+  "answer": "Violin|Cello",
+  "decoys": [
+   "Trumpet",
+   "Flute"
+  ]
+ },
+ {
+  "text": "Which of these are even numbers?",
+  "answer": "12|48",
+  "decoys": [
+   "21",
+   "35"
+  ]
+ },
+ {
+  "text": "Which of these are birds?",
+  "answer": "Ostrich|Penguin",
+  "decoys": [
+   "Bat",
+   "Flying fish"
+  ]
+ },
+ {
+  "text": "Which of these animals are reptiles?",
+  "answer": "Crocodile|Tortoise",
+  "decoys": [
+   "Frog",
+   "Salamander"
+  ]
+ },
+ {
+  "text": "Which of these are capital cities?",
+  "answer": "Paris|Cairo",
+  "decoys": [
+   "Sydney",
+   "Istanbul"
+  ]
+ },
+ {
+  "text": "Which of these are chess pieces?",
+  "answer": "Bishop|Rook",
+  "decoys": [
+   "Duke",
+   "Jester"
+  ]
+ },
+ {
+  "text": "Which of these are shapes with four sides?",
+  "answer": "Square|Rhombus",
+  "decoys": [
+   "Triangle",
+   "Hexagon"
+  ]
+ },
+ {
+  "text": "Which of these are metals?",
+  "answer": "Copper|Zinc",
+  "decoys": [
+   "Carbon",
+   "Sulfur"
+  ]
+ },
+ {
+  "text": "Which of these are dog breeds?",
+  "answer": "Beagle|Poodle",
+  "decoys": [
+   "Siamese",
+   "Persian"
+  ]
+ },
+ {
+  "text": "Which of these are months with 31 days?",
+  "answer": "July|December",
+  "decoys": [
+   "April",
+   "June"
+  ]
+ },
+ {
+  "text": "Which of these are in the solar system?",
+  "answer": "Saturn|The Sun",
+  "decoys": [
+   "Sirius",
+   "Andromeda"
+  ]
+ },
+ {
+  "text": "Which of these are musical notes?",
+  "answer": "C|F",
+  "decoys": [
+   "J",
+   "K"
+  ]
+ },
+ {
+  "text": "Which of these are body organs?",
+  "answer": "Liver|Spleen",
+  "decoys": [
+   "Femur",
+   "Tibia"
+  ]
+ },
+ {
+  "text": "Which of these are sports played with a ball?",
+  "answer": "Tennis|Rugby",
+  "decoys": [
+   "Fencing",
+   "Rowing"
+  ]
+ },
+ {
+  "text": "Which of these are types of clouds?",
+  "answer": "Cumulus|Cirrus",
+  "decoys": [
+   "Magnus",
+   "Solaris"
+  ]
+ },
+ {
+  "text": "Which of these are Olympic swimming strokes?",
+  "answer": "Butterfly|Backstroke",
+  "decoys": [
+   "Sidewinder",
+   "Doggy dive"
+  ]
+ },
+ {
+  "text": "Which of these are continents?",
+  "answer": "Asia|Europe",
+  "decoys": [
+   "Greenland",
+   "Arabia"
+  ]
+ },
+ {
+  "text": "Which of these are citrus fruits?",
+  "answer": "Lemon|Grapefruit",
+  "decoys": [
+   "Cherry",
+   "Pear"
+  ]
+ },
+ {
+  "text": "Which of these animals can fly?",
+  "answer": "Bat|Hummingbird",
+  "decoys": [
+   "Emu",
+   "Kiwi"
+  ]
+ },
+ {
+  "text": "Which of these are colors in the rainbow?",
+  "answer": "Indigo|Orange",
+  "decoys": [
+   "Pink",
+   "Brown"
+  ]
+ }
+]

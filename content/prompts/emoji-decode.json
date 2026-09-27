@@ -1,0 +1,345 @@
+[
+ {
+  "text": "🦁👑",
+  "answer": "The Lion King|Lion King",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "❄️👸",
+  "answer": "Frozen",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🕷️🧑",
+  "answer": "Spider-Man|Spiderman",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🦈🌊😱",
+  "answer": "Jaws",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🧙‍♂️💍🌋",
+  "answer": "The Lord of the Rings|Lord of the Rings",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "👻🚫🔫",
+  "answer": "Ghostbusters",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🐠🔍",
+  "answer": "Finding Nemo",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🦖🏝️",
+  "answer": "Jurassic Park",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🚢🧊💔",
+  "answer": "Titanic",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🧸🤠🚀",
+  "answer": "Toy Story",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🏠🎈👴",
+  "answer": "Up",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🐭👨‍🍳🇫🇷",
+  "answer": "Ratatouille",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "⭐⚔️",
+  "answer": "Star Wars",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🦇🦸‍♂️",
+  "answer": "Batman",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "👽📞🏠",
+  "answer": "E.T.|ET",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🍫🏭",
+  "answer": "Charlie and the Chocolate Factory",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🐼🥋",
+  "answer": "Kung Fu Panda",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🧜‍♀️🌊",
+  "answer": "The Little Mermaid|Little Mermaid",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🚗⚡🏁",
+  "answer": "Cars",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🟢👹🏰",
+  "answer": "Shrek",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🍎🍏💻",
+  "answer": "Apple",
+  "decoys": [
+   "Brand"
+  ]
+ },
+ {
+  "text": "☔🎵💃",
+  "answer": "Singin' in the Rain|Singing in the Rain",
+  "decoys": [
+   "Movie"
+  ]
+ },
+ {
+  "text": "🌧️🐱🐶",
+  "answer": "Raining cats and dogs",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🚶‍♂️🌳🏞️",
+  "answer": "A walk in the park|Walk in the park",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "⏰💸",
+  "answer": "Time is money",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🐦✋🌳🌳",
+  "answer": "A bird in the hand|Bird in the hand",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🍎👁️",
+  "answer": "Apple of my eye|The apple of my eye",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🧊🔨",
+  "answer": "Break the ice",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🐘🏠",
+  "answer": "Elephant in the room|The elephant in the room",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🌙💃",
+  "answer": "Moonwalk",
+  "decoys": [
+   "Dance move"
+  ]
+ },
+ {
+  "text": "🔥🔥🔥",
+  "answer": "On fire",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🎂🍰🎉",
+  "answer": "Happy birthday",
+  "decoys": [
+   "Song"
+  ]
+ },
+ {
+  "text": "⭐✨🌟 👀",
+  "answer": "Twinkle Twinkle Little Star",
+  "decoys": [
+   "Song"
+  ]
+ },
+ {
+  "text": "🐑🐑👧",
+  "answer": "Mary Had a Little Lamb",
+  "decoys": [
+   "Song"
+  ]
+ },
+ {
+  "text": "🕷️🌧️☀️",
+  "answer": "Itsy Bitsy Spider|The Itsy Bitsy Spider|Incy Wincy Spider",
+  "decoys": [
+   "Song"
+  ]
+ },
+ {
+  "text": "🌈🎶⬆️",
+  "answer": "Somewhere Over the Rainbow|Over the Rainbow",
+  "decoys": [
+   "Song"
+  ]
+ },
+ {
+  "text": "🚣🚣🌊",
+  "answer": "Row Row Row Your Boat|Row Your Boat",
+  "decoys": [
+   "Song"
+  ]
+ },
+ {
+  "text": "🔔🔔🎄",
+  "answer": "Jingle Bells",
+  "decoys": [
+   "Song"
+  ]
+ },
+ {
+  "text": "🧀🐭",
+  "answer": "Cheese",
+  "decoys": [
+   "Food"
+  ]
+ },
+ {
+  "text": "🌭🔥",
+  "answer": "Hot dog",
+  "decoys": [
+   "Food"
+  ]
+ },
+ {
+  "text": "🍿🎬",
+  "answer": "Movie night",
+  "decoys": [
+   "Phrase"
+  ]
+ },
+ {
+  "text": "🐝⭐",
+  "answer": "Superstar",
+  "decoys": [
+   "Word"
+  ]
+ },
+ {
+  "text": "☀️🌻",
+  "answer": "Sunflower",
+  "decoys": [
+   "Word"
+  ]
+ },
+ {
+  "text": "🌈🐟",
+  "answer": "Rainbow trout",
+  "decoys": [
+   "Animal"
+  ]
+ },
+ {
+  "text": "⭐🐟",
+  "answer": "Starfish",
+  "decoys": [
+   "Animal"
+  ]
+ },
+ {
+  "text": "🧈🪰",
+  "answer": "Butterfly",
+  "decoys": [
+   "Animal"
+  ]
+ },
+ {
+  "text": "🔥🦊",
+  "answer": "Firefox",
+  "decoys": [
+   "Brand"
+  ]
+ },
+ {
+  "text": "🍔👑",
+  "answer": "Burger King",
+  "decoys": [
+   "Brand"
+  ]
+ },
+ {
+  "text": "🧩🍰",
+  "answer": "A piece of cake|Piece of cake",
+  "decoys": [
+   "Phrase"
+  ]
+ }
+]

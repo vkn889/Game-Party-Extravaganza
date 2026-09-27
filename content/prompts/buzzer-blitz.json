@@ -1,0 +1,452 @@
+[
+ {
+  "text": "Which planet is famous for its Great Red Spot?",
+  "answer": "Jupiter",
+  "decoys": [
+   "Mars",
+   "Saturn",
+   "Neptune"
+  ]
+ },
+ {
+  "text": "What is the largest ocean on Earth?",
+  "answer": "Pacific Ocean",
+  "decoys": [
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Southern Ocean"
+  ]
+ },
+ {
+  "text": "How many sides does an octagon have?",
+  "answer": "8",
+  "decoys": [
+   "6",
+   "10",
+   "12"
+  ]
+ },
+ {
+  "text": "Which animal is known for changing its skin color to blend in?",
+  "answer": "Chameleon",
+  "decoys": [
+   "Iguana",
+   "Gecko",
+   "Salamander"
+  ]
+ },
+ {
+  "text": "What is the capital of France?",
+  "answer": "Paris",
+  "decoys": [
+   "Lyon",
+   "Marseille",
+   "Nice"
+  ]
+ },
+ {
+  "text": "What do caterpillars turn into?",
+  "answer": "Butterflies or moths",
+  "decoys": [
+   "Beetles",
+   "Dragonflies",
+   "Grasshoppers"
+  ]
+ },
+ {
+  "text": "Which is the only mammal that can truly fly?",
+  "answer": "Bat",
+  "decoys": [
+   "Flying squirrel",
+   "Sugar glider",
+   "Colugo"
+  ]
+ },
+ {
+  "text": "How many hours are in a day?",
+  "answer": "24",
+  "decoys": [
+   "12",
+   "20",
+   "36"
+  ]
+ },
+ {
+  "text": "What is the frozen form of water called?",
+  "answer": "Ice",
+  "decoys": [
+   "Steam",
+   "Frost bite",
+   "Slush"
+  ]
+ },
+ {
+  "text": "Which fruit is known for keeping the doctor away?",
+  "answer": "Apple",
+  "decoys": [
+   "Banana",
+   "Orange",
+   "Grape"
+  ]
+ },
+ {
+  "text": "What is the name of the toy cowboy in Toy Story?",
+  "answer": "Woody",
+  "decoys": [
+   "Buzz",
+   "Jessie",
+   "Andy"
+  ]
+ },
+ {
+  "text": "Which country is famous for maple syrup?",
+  "answer": "Canada",
+  "decoys": [
+   "Sweden",
+   "Scotland",
+   "New Zealand"
+  ]
+ },
+ {
+  "text": "How many planets are in our solar system?",
+  "answer": "8",
+  "decoys": [
+   "7",
+   "9",
+   "10"
+  ]
+ },
+ {
+  "text": "What is the largest bone in the human body?",
+  "answer": "Femur",
+  "decoys": [
+   "Spine",
+   "Skull",
+   "Humerus"
+  ]
+ },
+ {
+  "text": "Which color is at the top of a rainbow?",
+  "answer": "Red",
+  "decoys": [
+   "Violet",
+   "Blue",
+   "Yellow"
+  ]
+ },
+ {
+  "text": "What is the capital of Germany?",
+  "answer": "Berlin",
+  "decoys": [
+   "Munich",
+   "Frankfurt",
+   "Hamburg"
+  ]
+ },
+ {
+  "text": "Which animal has black and white stripes?",
+  "answer": "Zebra",
+  "decoys": [
+   "Tiger",
+   "Panda",
+   "Skunk"
+  ]
+ },
+ {
+  "text": "How many weeks are in a year?",
+  "answer": "52",
+  "decoys": [
+   "48",
+   "50",
+   "56"
+  ]
+ },
+ {
+  "text": "What do you call a baby cat?",
+  "answer": "Kitten",
+  "decoys": [
+   "Cub",
+   "Pup",
+   "Kit-cat"
+  ]
+ },
+ {
+  "text": "Which sport uses a shuttlecock?",
+  "answer": "Badminton",
+  "decoys": [
+   "Squash",
+   "Tennis",
+   "Table tennis"
+  ]
+ },
+ {
+  "text": "In which country is the Taj Mahal?",
+  "answer": "India",
+  "decoys": [
+   "Pakistan",
+   "Nepal",
+   "Bangladesh"
+  ]
+ },
+ {
+  "text": "What is 12 × 12?",
+  "answer": "144",
+  "decoys": [
+   "124",
+   "132",
+   "156"
+  ]
+ },
+ {
+  "text": "Which gas do humans need to breathe to live?",
+  "answer": "Oxygen",
+  "decoys": [
+   "Carbon dioxide",
+   "Hydrogen",
+   "Helium"
+  ]
+ },
+ {
+  "text": "What is the tallest animal in the world?",
+  "answer": "Giraffe",
+  "decoys": [
+   "Elephant",
+   "Ostrich",
+   "Moose"
+  ]
+ },
+ {
+  "text": "Which superhero is known as the Caped Crusader?",
+  "answer": "Batman",
+  "decoys": [
+   "Superman",
+   "Spider-Man",
+   "Iron Man"
+  ]
+ },
+ {
+  "text": "What is the name of the famous clock tower bell in London?",
+  "answer": "Big Ben",
+  "decoys": [
+   "Big Tom",
+   "London Bell",
+   "Great Paul"
+  ]
+ },
+ {
+  "text": "Which instrument has pedals and 47 strings?",
+  "answer": "Harp",
+  "decoys": [
+   "Piano",
+   "Cello",
+   "Guitar"
+  ]
+ },
+ {
+  "text": "How many cents are in a US dollar?",
+  "answer": "100",
+  "decoys": [
+   "10",
+   "50",
+   "1,000"
+  ]
+ },
+ {
+  "text": "Which planet do we live on?",
+  "answer": "Earth",
+  "decoys": [
+   "Mars",
+   "Venus",
+   "Terra Nova"
+  ]
+ },
+ {
+  "text": "What is the main food of giant pandas?",
+  "answer": "Bamboo",
+  "decoys": [
+   "Fish",
+   "Eucalyptus",
+   "Berries"
+  ]
+ },
+ {
+  "text": "Which month has the fewest days?",
+  "answer": "February",
+  "decoys": [
+   "April",
+   "June",
+   "November"
+  ]
+ },
+ {
+  "text": "What is the opposite of north?",
+  "answer": "South",
+  "decoys": [
+   "East",
+   "West",
+   "Up"
+  ]
+ },
+ {
+  "text": "What is the largest continent?",
+  "answer": "Asia",
+  "decoys": [
+   "Africa",
+   "North America",
+   "Europe"
+  ]
+ },
+ {
+  "text": "How many letters are in the English alphabet?",
+  "answer": "26",
+  "decoys": [
+   "24",
+   "25",
+   "28"
+  ]
+ },
+ {
+  "text": "Which bird is known for mimicking human speech?",
+  "answer": "Parrot",
+  "decoys": [
+   "Pigeon",
+   "Robin",
+   "Sparrow"
+  ]
+ },
+ {
+  "text": "What is the capital of the United States?",
+  "answer": "Washington, D.C.",
+  "decoys": [
+   "New York City",
+   "Philadelphia",
+   "Boston"
+  ]
+ },
+ {
+  "text": "Which natural wonder is found in Arizona?",
+  "answer": "The Grand Canyon",
+  "decoys": [
+   "Niagara Falls",
+   "Yellowstone",
+   "Mount Rushmore"
+  ]
+ },
+ {
+  "text": "How many legs does an insect have?",
+  "answer": "6",
+  "decoys": [
+   "4",
+   "8",
+   "10"
+  ]
+ },
+ {
+  "text": "What do you call a shape with five sides?",
+  "answer": "Pentagon",
+  "decoys": [
+   "Hexagon",
+   "Octagon",
+   "Heptagon"
+  ]
+ },
+ {
+  "text": "What is the hottest planet in our solar system?",
+  "answer": "Venus",
+  "decoys": [
+   "Mercury",
+   "Mars",
+   "Jupiter"
+  ]
+ },
+ {
+  "text": "Which famous ship sank on its first voyage in 1912?",
+  "answer": "Titanic",
+  "decoys": [
+   "Lusitania",
+   "Queen Mary",
+   "Mayflower"
+  ]
+ },
+ {
+  "text": "What is the largest animal that has ever lived?",
+  "answer": "Blue whale",
+  "decoys": [
+   "Argentinosaurus",
+   "Megalodon",
+   "Mammoth"
+  ]
+ },
+ {
+  "text": "Which language has the most native speakers?",
+  "answer": "Mandarin Chinese",
+  "decoys": [
+   "English",
+   "Spanish",
+   "Hindi"
+  ]
+ },
+ {
+  "text": "What is the name for a word that reads the same backwards?",
+  "answer": "Palindrome",
+  "decoys": [
+   "Anagram",
+   "Acronym",
+   "Homophone"
+  ]
+ },
+ {
+  "text": "What is the capital of Egypt?",
+  "answer": "Cairo",
+  "decoys": [
+   "Alexandria",
+   "Giza",
+   "Luxor"
+  ]
+ },
+ {
+  "text": "How many degrees are in a right angle?",
+  "answer": "90",
+  "decoys": [
+   "45",
+   "180",
+   "100"
+  ]
+ },
+ {
+  "text": "Which vegetable is famous for making you cry when you cut it?",
+  "answer": "Onion",
+  "decoys": [
+   "Garlic",
+   "Leek",
+   "Radish"
+  ]
+ },
+ {
+  "text": "What is the name of Harry Potter's owl?",
+  "answer": "Hedwig",
+  "decoys": [
+   "Errol",
+   "Pigwidgeon",
+   "Crookshanks"
+  ]
+ },
+ {
+  "text": "Which is the longest river in Africa?",
+  "answer": "Nile",
+  "decoys": [
+   "Congo",
+   "Niger",
+   "Zambezi"
+  ]
+ },
+ {
+  "text": "What is the chemical symbol for sodium?",
+  "answer": "Na",
+  "decoys": [
+   "So",
+   "Sd",
+   "S"
+  ]
+ }
+]

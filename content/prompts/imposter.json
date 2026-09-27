@@ -1,0 +1,562 @@
+[
+ {
+  "text": "Food",
+  "answer": "Pizza",
+  "decoys": [
+   "Flatbread",
+   "Burger",
+   "Taco",
+   "Sushi",
+   "Pasta",
+   "Salad",
+   "Burrito",
+   "Pancake"
+  ]
+ },
+ {
+  "text": "Food",
+  "answer": "Spaghetti",
+  "decoys": [
+   "Linguine",
+   "Lasagna",
+   "Ravioli",
+   "Risotto",
+   "Omelet",
+   "Curry",
+   "Dumpling",
+   "Chili"
+  ]
+ },
+ {
+  "text": "Food",
+  "answer": "Pancake",
+  "decoys": [
+   "Waffle",
+   "Muffin",
+   "Bagel",
+   "Croissant",
+   "Donut",
+   "Toast",
+   "Crepe",
+   "Biscuit"
+  ]
+ },
+ {
+  "text": "Animals",
+  "answer": "Dolphin",
+  "decoys": [
+   "Porpoise",
+   "Shark",
+   "Whale",
+   "Seal",
+   "Octopus",
+   "Penguin",
+   "Turtle",
+   "Otter"
+  ]
+ },
+ {
+  "text": "Animals",
+  "answer": "Lion",
+  "decoys": [
+   "Tiger",
+   "Leopard",
+   "Cheetah",
+   "Jaguar",
+   "Zebra",
+   "Giraffe",
+   "Hippo",
+   "Rhino"
+  ]
+ },
+ {
+  "text": "Animals",
+  "answer": "Rabbit",
+  "decoys": [
+   "Hare",
+   "Squirrel",
+   "Hamster",
+   "Beaver",
+   "Mouse",
+   "Fox",
+   "Hedgehog",
+   "Raccoon"
+  ]
+ },
+ {
+  "text": "Animals",
+  "answer": "Crocodile",
+  "decoys": [
+   "Alligator",
+   "Lizard",
+   "Snake",
+   "Iguana",
+   "Frog",
+   "Tortoise",
+   "Chameleon",
+   "Gecko"
+  ]
+ },
+ {
+  "text": "Places",
+  "answer": "Beach",
+  "decoys": [
+   "Lake",
+   "Mountain",
+   "Desert",
+   "Forest",
+   "Island",
+   "Canyon",
+   "Jungle",
+   "Volcano"
+  ]
+ },
+ {
+  "text": "Places",
+  "answer": "Library",
+  "decoys": [
+   "Bookstore",
+   "Museum",
+   "Gym",
+   "Bakery",
+   "Hospital",
+   "Airport",
+   "Cinema",
+   "Zoo"
+  ]
+ },
+ {
+  "text": "Places",
+  "answer": "Airport",
+  "decoys": [
+   "Train station",
+   "Harbor",
+   "Bus stop",
+   "Hotel",
+   "Stadium",
+   "Mall",
+   "Castle",
+   "Farm"
+  ]
+ },
+ {
+  "text": "Places",
+  "answer": "Hospital",
+  "decoys": [
+   "Clinic",
+   "School",
+   "Bank",
+   "Prison",
+   "Church",
+   "Office",
+   "Factory",
+   "Casino"
+  ]
+ },
+ {
+  "text": "Sports",
+  "answer": "Soccer",
+  "decoys": [
+   "Rugby",
+   "Tennis",
+   "Golf",
+   "Baseball",
+   "Hockey",
+   "Cricket",
+   "Volleyball",
+   "Bowling"
+  ]
+ },
+ {
+  "text": "Sports",
+  "answer": "Basketball",
+  "decoys": [
+   "Netball",
+   "Badminton",
+   "Boxing",
+   "Surfing",
+   "Skiing",
+   "Cycling",
+   "Archery",
+   "Fencing"
+  ]
+ },
+ {
+  "text": "Sports",
+  "answer": "Skiing",
+  "decoys": [
+   "Snowboarding",
+   "Skating",
+   "Sledding",
+   "Curling",
+   "Diving",
+   "Rowing",
+   "Karate",
+   "Wrestling"
+  ]
+ },
+ {
+  "text": "Jobs",
+  "answer": "Doctor",
+  "decoys": [
+   "Nurse",
+   "Teacher",
+   "Chef",
+   "Pilot",
+   "Firefighter",
+   "Lawyer",
+   "Farmer",
+   "Plumber"
+  ]
+ },
+ {
+  "text": "Jobs",
+  "answer": "Chef",
+  "decoys": [
+   "Baker",
+   "Waiter",
+   "Butcher",
+   "Barista",
+   "Cashier",
+   "Dentist",
+   "Mechanic",
+   "Artist"
+  ]
+ },
+ {
+  "text": "Jobs",
+  "answer": "Astronaut",
+  "decoys": [
+   "Pilot",
+   "Scientist",
+   "Engineer",
+   "Sailor",
+   "Soldier",
+   "Detective",
+   "Architect",
+   "Judge"
+  ]
+ },
+ {
+  "text": "Household items",
+  "answer": "Fork",
+  "decoys": [
+   "Spoon",
+   "Knife",
+   "Plate",
+   "Bowl",
+   "Cup",
+   "Pan",
+   "Kettle",
+   "Blender"
+  ]
+ },
+ {
+  "text": "Household items",
+  "answer": "Pillow",
+  "decoys": [
+   "Cushion",
+   "Blanket",
+   "Lamp",
+   "Rug",
+   "Mirror",
+   "Curtain",
+   "Couch",
+   "Towel"
+  ]
+ },
+ {
+  "text": "Household items",
+  "answer": "Toothbrush",
+  "decoys": [
+   "Hairbrush",
+   "Soap",
+   "Shampoo",
+   "Razor",
+   "Comb",
+   "Sponge",
+   "Mop",
+   "Bucket"
+  ]
+ },
+ {
+  "text": "Vehicles",
+  "answer": "Bicycle",
+  "decoys": [
+   "Scooter",
+   "Car",
+   "Bus",
+   "Train",
+   "Truck",
+   "Tractor",
+   "Boat",
+   "Skateboard"
+  ]
+ },
+ {
+  "text": "Vehicles",
+  "answer": "Helicopter",
+  "decoys": [
+   "Airplane",
+   "Rocket",
+   "Blimp",
+   "Glider",
+   "Jet ski",
+   "Submarine",
+   "Tank",
+   "Ferry"
+  ]
+ },
+ {
+  "text": "Music",
+  "answer": "Guitar",
+  "decoys": [
+   "Ukulele",
+   "Piano",
+   "Drums",
+   "Violin",
+   "Trumpet",
+   "Flute",
+   "Harp",
+   "Saxophone"
+  ]
+ },
+ {
+  "text": "Music",
+  "answer": "Violin",
+  "decoys": [
+   "Cello",
+   "Banjo",
+   "Harmonica",
+   "Tuba",
+   "Clarinet",
+   "Xylophone",
+   "Accordion",
+   "Bagpipes"
+  ]
+ },
+ {
+  "text": "Weather",
+  "answer": "Snow",
+  "decoys": [
+   "Hail",
+   "Rain",
+   "Fog",
+   "Thunder",
+   "Wind",
+   "Rainbow",
+   "Tornado",
+   "Heatwave"
+  ]
+ },
+ {
+  "text": "Clothing",
+  "answer": "Sneakers",
+  "decoys": [
+   "Sandals",
+   "Boots",
+   "Hat",
+   "Scarf",
+   "Gloves",
+   "Jacket",
+   "Socks",
+   "Shorts"
+  ]
+ },
+ {
+  "text": "Clothing",
+  "answer": "Sweater",
+  "decoys": [
+   "Hoodie",
+   "T-shirt",
+   "Dress",
+   "Tie",
+   "Belt",
+   "Jeans",
+   "Pajamas",
+   "Raincoat"
+  ]
+ },
+ {
+  "text": "Fruit",
+  "answer": "Strawberry",
+  "decoys": [
+   "Raspberry",
+   "Banana",
+   "Apple",
+   "Mango",
+   "Grape",
+   "Pineapple",
+   "Peach",
+   "Kiwi"
+  ]
+ },
+ {
+  "text": "Fruit",
+  "answer": "Lemon",
+  "decoys": [
+   "Lime",
+   "Orange",
+   "Cherry",
+   "Watermelon",
+   "Plum",
+   "Pear",
+   "Coconut",
+   "Blueberry"
+  ]
+ },
+ {
+  "text": "Drinks",
+  "answer": "Coffee",
+  "decoys": [
+   "Tea",
+   "Juice",
+   "Soda",
+   "Milkshake",
+   "Lemonade",
+   "Smoothie",
+   "Water",
+   "Hot chocolate"
+  ]
+ },
+ {
+  "text": "Holidays",
+  "answer": "Birthday",
+  "decoys": [
+   "Anniversary",
+   "Wedding",
+   "Graduation",
+   "Halloween",
+   "New Year",
+   "Picnic",
+   "Parade",
+   "Festival"
+  ]
+ },
+ {
+  "text": "Fantasy",
+  "answer": "Dragon",
+  "decoys": [
+   "Dinosaur",
+   "Unicorn",
+   "Wizard",
+   "Mermaid",
+   "Troll",
+   "Vampire",
+   "Fairy",
+   "Giant"
+  ]
+ },
+ {
+  "text": "Space",
+  "answer": "Moon",
+  "decoys": [
+   "Planet",
+   "Star",
+   "Comet",
+   "Rocket",
+   "Galaxy",
+   "Meteor",
+   "Satellite",
+   "Alien"
+  ]
+ },
+ {
+  "text": "School",
+  "answer": "Pencil",
+  "decoys": [
+   "Pen",
+   "Eraser",
+   "Ruler",
+   "Backpack",
+   "Notebook",
+   "Calculator",
+   "Stapler",
+   "Glue"
+  ]
+ },
+ {
+  "text": "Nature",
+  "answer": "Waterfall",
+  "decoys": [
+   "River",
+   "Cave",
+   "Cliff",
+   "Meadow",
+   "Swamp",
+   "Glacier",
+   "Valley",
+   "Reef"
+  ]
+ },
+ {
+  "text": "Games",
+  "answer": "Chess",
+  "decoys": [
+   "Checkers",
+   "Poker",
+   "Bingo",
+   "Dominoes",
+   "Jenga",
+   "Charades",
+   "Sudoku",
+   "Tag"
+  ]
+ },
+ {
+  "text": "Body parts",
+  "answer": "Elbow",
+  "decoys": [
+   "Knee",
+   "Shoulder",
+   "Wrist",
+   "Ankle",
+   "Chin",
+   "Nose",
+   "Ear",
+   "Thumb"
+  ]
+ },
+ {
+  "text": "Desserts",
+  "answer": "Ice cream",
+  "decoys": [
+   "Frozen yogurt",
+   "Cake",
+   "Cookie",
+   "Brownie",
+   "Pie",
+   "Pudding",
+   "Cupcake",
+   "Candy"
+  ]
+ },
+ {
+  "text": "Tools",
+  "answer": "Hammer",
+  "decoys": [
+   "Mallet",
+   "Screwdriver",
+   "Wrench",
+   "Saw",
+   "Drill",
+   "Shovel",
+   "Ladder",
+   "Pliers"
+  ]
+ },
+ {
+  "text": "Buildings",
+  "answer": "Castle",
+  "decoys": [
+   "Palace",
+   "Skyscraper",
+   "Lighthouse",
+   "Barn",
+   "Igloo",
+   "Tent",
+   "Cabin",
+   "Pyramid"
+  ]
+ }
+]
