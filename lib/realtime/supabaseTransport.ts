@@ -125,7 +125,6 @@ export async function createHostTransport(realtime: RealtimeClient, code: string
     close() {
       for (const out of privates.values()) void realtime.removeChannel(out.raw);
       void realtime.removeChannel(room);
-      void realtime.removeChannel(inbox);
     },
   };
 }
@@ -142,8 +141,6 @@ export async function createPlayerTransport(
   let privateHandler: ((m: PrivateMessage | NoticeMessage) => void) | null = null;
   let hostHandler: ((connected: boolean) => void) | null = null;
   let statusHandler: ((s: Status) => void) | null = null;
-  const outbox: Action[] = [];
-  let inboxReady = false;
 
   const room = realtime.channel(topics.room(code), {
     config: { private: true, broadcast: { self: false, ack: false }, presence: { key: playerId } },
@@ -158,19 +155,12 @@ export async function createPlayerTransport(
     privateHandler?.(payload as PrivateMessage | NoticeMessage),
   );
 
+  // Phones may only write to room:{code}:host, never read it (it carries other players'
+  // tokens). Realtime only lets clients join channels they can read, so actions go
+  // over the HTTP broadcast endpoint, which checks the write policy.
   const inbox = realtime.channel(topics.host(code), { config: { private: true } });
 
-  const flush = () => {
-    while (inboxReady && outbox.length > 0) {
-      void inbox.send({ type: 'broadcast', event: EVENTS.action, payload: outbox.shift() });
-    }
-  };
-
   await subscribeChannel(mine);
-  await subscribeChannel(inbox, (status) => {
-    inboxReady = status === 'connected';
-    flush();
-  });
   // On the first join and after any rejoin (phone sleep, network change),
   // re-track presence and ask the host for fresh state.
   await subscribeChannel(room, (status) => {
@@ -197,13 +187,11 @@ export async function createPlayerTransport(
       handler('connected');
     },
     send(action: Action) {
-      outbox.push(action);
-      flush();
+      void inbox.httpSend(EVENTS.action, action).catch(() => undefined);
     },
     close() {
       void realtime.removeChannel(room);
       void realtime.removeChannel(mine);
-      void realtime.removeChannel(inbox);
     },
   };
 }
